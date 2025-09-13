@@ -4,7 +4,7 @@ An interactive Formula 1 dashboard built with **Streamlit** and **FastF1**. Visu
 
 ---
 
-## 🚀 Features
+## Features
 - **Lap Time Analysis** — Explore lap times for each driver in a session
 - **Tyre Strategy** — See tyre compound usage distributions
 - **Telemetry** — Visualize fastest lap telemetry (speed, track map)
@@ -44,22 +44,6 @@ F1-InsightX/
 └── README.md           # This file
 ```
 
----
-
-## ☁️ Deploy to Streamlit Cloud
-1. Push this repo to GitHub
-2. Go to [Streamlit Cloud](https://share.streamlit.io/)
-3. Link your GitHub repo and select `dashboard.py`
-
-The app will build using `requirements.txt` and run in the cloud.
-
----
-
 ## 🙌 Acknowledgements
 - [FastF1](https://theoehrly.github.io/Fast-F1/) — F1 telemetry and timing API
 - [Streamlit](https://streamlit.io/) — Interactive dashboards in Python
-
----
-
-### 🔗 Repo
-👉 https://github.com/YOUR-USERNAME/F1-InsightX
