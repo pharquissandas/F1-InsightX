@@ -1,15 +1,5 @@
-# Python
+ff1cache/
 __pycache__/
 *.pyc
-*.pyo
-
-# FastF1 cache
-ff1cache/
-
-# Streamlit
-.streamlit/
-
-# IDE/OS junk
-.DS_Store
-.vscode/
-.idea/
+.env
+.venv/
